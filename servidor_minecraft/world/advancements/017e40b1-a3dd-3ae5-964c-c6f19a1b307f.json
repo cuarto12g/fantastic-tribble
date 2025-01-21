@@ -813,7 +813,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-08 00:34:24 +0000"
+      "minecraft:skeleton": "2025-01-08 00:34:24 +0000",
+      "minecraft:zombie": "2025-01-21 03:50:01 +0000"
     },
     "done": false
   },
@@ -1249,6 +1250,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-21 03:54:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 03:41:20 +0000"
@@ -1372,6 +1379,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 03:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-21 03:54:47 +0000"
     },
     "done": true
   },
