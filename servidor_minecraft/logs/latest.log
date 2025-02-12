@@ -78,3 +78,20 @@
 [03:52:35] [Server thread/INFO]: williwanwan joined the game
 [03:52:35] [Server thread/INFO]: williwanwan[/127.141.151.224:58003] logged in with entity id 22801 at ([world_nether]192.04611076057844, 39.0, 133.76572513445112)
 [03:53:24] [Server thread/INFO]: williwanwan has completed the challenge [Hot Tourist Destinations]
+[03:59:09] [Async Chat Thread - #3/INFO]: [Not Secure] <ollop78> 276 -22
+[04:03:27] [Server thread/INFO]: ollop78 has made the advancement [War Pigs]
+[04:04:42] [Server thread/INFO]: williwanwan lost connection: Disconnected
+[04:04:43] [Server thread/INFO]: williwanwan left the game
+[04:05:21] [Server thread/INFO]: Made ollop78 a server operator
+[04:05:47] [Server thread/INFO]: ollop78 issued server command: /gamemode spectator
+[04:05:47] [Server thread/INFO]: [ollop78: Set own game mode to Spectator Mode]
+[04:05:53] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[04:05:53] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[04:06:11] [Server thread/INFO]: ollop78 issued server command: /gamemode spectator
+[04:06:11] [Server thread/INFO]: [ollop78: Set own game mode to Spectator Mode]
+[04:06:25] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[04:06:25] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[04:06:28] [Server thread/INFO]: ollop78 issued server command: /gamemode spectator
+[04:06:28] [Server thread/INFO]: [ollop78: Set own game mode to Spectator Mode]
+[04:07:34] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[04:07:34] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
