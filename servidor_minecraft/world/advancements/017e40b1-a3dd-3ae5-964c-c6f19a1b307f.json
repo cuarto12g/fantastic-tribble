@@ -815,6 +815,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-02-12 02:38:30 +0000",
       "minecraft:skeleton": "2025-01-08 00:34:24 +0000",
+      "minecraft:piglin": "2025-02-12 03:55:01 +0000",
       "minecraft:witch": "2025-02-12 02:16:56 +0000",
       "minecraft:spider": "2025-02-12 02:15:30 +0000",
       "minecraft:zombie": "2025-01-21 03:50:01 +0000",
@@ -1475,9 +1476,10 @@
       "minecraft:crimson_forest": "2025-02-12 03:05:14 +0000",
       "minecraft:nether_wastes": "2025-02-12 03:26:41 +0000",
       "minecraft:soul_sand_valley": "2025-02-12 03:31:41 +0000",
-      "minecraft:warped_forest": "2025-01-21 04:27:31 +0000"
+      "minecraft:warped_forest": "2025-01-21 04:27:31 +0000",
+      "minecraft:basalt_deltas": "2025-02-12 03:49:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
