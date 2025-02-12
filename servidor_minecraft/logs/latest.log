@@ -44,3 +44,16 @@
 [07:07:34] [Server thread/INFO]: ollop78 joined the game
 [07:07:35] [Server thread/INFO]: ollop78[/127.211.193.70:34195] logged in with entity id 9 at ([world]2233.5, 65.875, -365.5)
 [07:32:04] [Server thread/INFO]: ollop78 has made the advancement [What a Deal!]
+[07:58:42] [Server thread/INFO]: Made ollop78 a server operator
+[07:58:47] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[07:58:47] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[08:00:27] [Server thread/INFO]: ollop78 issued server command: /fill 2244 79 -312
+[08:00:44] [Server thread/INFO]: ollop78 issued server command: /fill 2244 79 -312 2268 79 -321 dirt
+[08:00:44] [Server thread/INFO]: [ollop78: Successfully filled 159 block(s)]
+[08:01:06] [Server thread/INFO]: ollop78 issued server command: /fill 2244 78 -312 2268 78 -321 air
+[08:01:06] [Server thread/INFO]: [ollop78: Successfully filled 211 block(s)]
+[08:01:33] [Server thread/INFO]: ollop78 issued server command: /fill 2244 79 -336
+[08:01:43] [Server thread/INFO]: ollop78 issued server command: /fill 2244 79 -336 2268 79 -327 dirt
+[08:01:43] [Server thread/INFO]: [ollop78: Successfully filled 248 block(s)]
+[08:01:54] [Server thread/INFO]: ollop78 issued server command: /fill 2244 78 -336 2268 78 -327 air
+[08:01:54] [Server thread/INFO]: [ollop78: Successfully filled 250 block(s)]
