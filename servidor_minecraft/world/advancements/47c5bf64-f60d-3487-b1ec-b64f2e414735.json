@@ -11,11 +11,12 @@
       "minecraft:beach": "2025-01-07 23:24:41 +0000",
       "minecraft:forest": "2025-01-07 23:33:28 +0000",
       "minecraft:sparse_jungle": "2025-01-07 23:36:18 +0000",
+      "minecraft:river": "2025-01-07 23:27:20 +0000",
+      "minecraft:dripstone_caves": "2025-01-16 00:56:30 +0000",
       "minecraft:ocean": "2025-01-07 23:24:26 +0000",
       "minecraft:jungle": "2025-01-07 23:35:04 +0000",
       "minecraft:sunflower_plains": "2025-01-07 23:20:37 +0000",
-      "minecraft:river": "2025-01-07 23:27:20 +0000",
-      "minecraft:dripstone_caves": "2025-01-16 00:56:30 +0000",
+      "minecraft:birch_forest": "2025-02-12 02:52:40 +0000",
       "minecraft:savanna": "2025-01-07 23:19:52 +0000",
       "minecraft:bamboo_jungle": "2025-01-07 23:40:40 +0000",
       "minecraft:plains": "2025-01-07 23:19:14 +0000"
@@ -2081,6 +2082,24 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-12 02:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-12 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-12 02:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-12 02:52:27 +0000"
     },
     "done": true
   },
