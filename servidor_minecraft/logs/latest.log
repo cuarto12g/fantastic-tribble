@@ -59,3 +59,7 @@
 [08:01:54] [Server thread/INFO]: [ollop78: Successfully filled 250 block(s)]
 [08:08:44] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
 [08:08:44] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[08:21:40] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[08:21:40] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[08:21:45] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[08:21:45] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
