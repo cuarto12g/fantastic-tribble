@@ -56,3 +56,4 @@
 [02:27:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 495e4ff5-5583-4d6a-8552-1d737ae13978, mapped to Villager['Villager'/419, uuid='495e4ff5-5583-4d6a-8552-1d737ae13978', l='ServerLevel[world]', x=1779.45, y=71.00, z=-237.80, cpos=[111, -15], tl=5016, v=true], can't add Villager['Villager'/442, uuid='495e4ff5-5583-4d6a-8552-1d737ae13978', l='ServerLevel[world]', x=1772.30, y=69.56, z=-238.75, cpos=[110, -15], tl=4703, v=false]
 [02:54:15] [Server thread/INFO]: williwanwan has made the advancement [Best Friends Forever]
 [03:05:22] [Server thread/INFO]: ollop78 has made the advancement [Hot Stuff]
+[03:15:34] [Server thread/INFO]: ollop78 burned to death
