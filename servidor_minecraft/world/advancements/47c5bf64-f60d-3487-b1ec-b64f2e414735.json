@@ -435,6 +435,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-07 23:38:28 +0000",
+      "rotten_flesh": "2025-02-13 01:26:35 +0000",
       "cooked_mutton": "2025-01-07 23:26:38 +0000"
     },
     "done": false
@@ -2354,6 +2355,18 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-02-13 01:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-02-13 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-13 01:26:45 +0000"
     },
     "done": true
   },
