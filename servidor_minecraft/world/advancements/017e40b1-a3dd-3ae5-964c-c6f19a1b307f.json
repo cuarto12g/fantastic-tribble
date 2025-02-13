@@ -427,6 +427,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-08 00:21:01 +0000",
+      "rotten_flesh": "2025-02-13 22:49:49 +0000",
       "cooked_mutton": "2025-01-07 23:43:35 +0000",
       "beef": "2025-01-07 23:51:04 +0000",
       "melon_slice": "2025-01-07 23:52:59 +0000"
@@ -2417,6 +2418,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-13 22:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-13 22:51:05 +0000"
     },
     "done": true
   },
