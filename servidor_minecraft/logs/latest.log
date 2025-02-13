@@ -47,3 +47,8 @@
 [22:31:48] [Server thread/INFO]: williwanwan joined the game
 [22:31:48] [Server thread/INFO]: williwanwan[/127.193.142.163:41667] logged in with entity id 252 at ([world]2256.5490507552518, 64.0, -350.18389615595106)
 [22:32:16] [Server thread/INFO]: williwanwan was slain by ollop78
+[22:46:07] [Server thread/INFO]: ollop78 was doomed to fall by Zombie
+[22:47:15] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[22:47:15] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[22:48:41] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[22:48:41] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
