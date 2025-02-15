@@ -58,3 +58,7 @@
 [04:33:03] [User Authenticator #2/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
 [04:33:06] [Server thread/INFO]: ollop78 joined the game
 [04:33:06] [Server thread/INFO]: ollop78[/127.94.241.105:50863] logged in with entity id 17288 at ([world]2225.1572430229703, 64.0, -376.8480611129138)
+[05:03:08] [Server thread/INFO]: ollop78 lost connection: Disconnected
+[05:03:08] [Server thread/INFO]: ollop78 left the game
+[05:03:08] [Server thread/INFO]: williwanwan lost connection: Disconnected
+[05:03:08] [Server thread/INFO]: williwanwan left the game
