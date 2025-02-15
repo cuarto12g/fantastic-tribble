@@ -2478,15 +2478,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_pink_petals": "2025-02-15 04:12:32 +0000"
+      "has_log": "2025-02-15 04:12:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
-      "has_egg": "2025-02-15 04:29:04 +0000"
+      "has_log": "2025-02-15 04:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-15 04:12:32 +0000"
     },
     "done": true
   },
@@ -2496,21 +2502,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-02-15 04:23:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-15 04:13:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-02-15 04:24:01 +0000"
     },
     "done": true
   },
@@ -2526,21 +2520,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-02-15 04:23:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-02-15 04:13:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-02-15 04:23:59 +0000"
     },
     "done": true
   },
@@ -2556,27 +2538,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-02-15 04:24:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-02-15 04:13:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-02-15 04:12:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-02-15 04:24:01 +0000"
     },
     "done": true
   },
@@ -2586,9 +2550,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_log": "2025-02-15 04:12:28 +0000"
+      "has_salmon": "2025-02-15 04:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-15 04:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-15 04:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-15 04:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-15 04:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-15 04:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-15 04:29:04 +0000"
     },
     "done": true
   },
