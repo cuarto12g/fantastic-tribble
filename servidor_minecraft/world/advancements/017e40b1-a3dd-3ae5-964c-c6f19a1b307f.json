@@ -826,6 +826,7 @@
       "minecraft:piglin_brute": "2025-02-12 04:01:52 +0000",
       "minecraft:zombie": "2025-01-21 03:50:01 +0000",
       "minecraft:creeper": "2025-02-12 09:05:07 +0000",
+      "minecraft:drowned": "2025-02-15 06:12:04 +0000",
       "minecraft:zombie_villager": "2025-02-13 22:40:06 +0000",
       "minecraft:hoglin": "2025-02-12 03:30:50 +0000"
     },
@@ -2593,6 +2594,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-15 06:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-15 05:48:15 +0000"
@@ -2605,9 +2612,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-15 06:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-02-15 05:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-15 06:22:07 +0000"
     },
     "done": true
   },

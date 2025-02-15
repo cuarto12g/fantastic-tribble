@@ -73,3 +73,39 @@
 [05:43:21] [Server thread/INFO]: ollop78 fell from a high place
 [05:48:15] [Server thread/INFO]: ollop78 has made the advancement [Best Friends Forever]
 [06:01:50] [Server thread/INFO]: ollop78 fell from a high place
+[06:06:25] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[06:06:25] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[06:06:29] [Server thread/INFO]: Villager Villager['Villager'/22308, uuid='b3695bb6-0b7d-40bc-bb8f-524da9dfed74', l='ServerLevel[world]', x=2255.51, y=65.44, z=-322.30, cpos=[140, -21], tl=75294, v=true] died, message: 'Villager went up in flames'
+[06:06:41] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[06:06:41] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[06:08:20] [Server thread/INFO]: ollop78 was slain by Zombie
+[06:20:48] [Server thread/INFO]: ollop78 has made the advancement [Who is Cutting Onions?]
+[06:25:58] [Server thread/INFO]: ollop78 fell from a high place
+[06:30:21] [Server thread/INFO]: Stopping the server
+[06:30:21] [Server thread/INFO]: Stopping server
+[06:30:21] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[06:30:21] [Server thread/INFO]: Saving players
+[06:30:21] [Server thread/INFO]: williwanwan lost connection: Server closed
+[06:30:21] [Server thread/INFO]: williwanwan left the game
+[06:30:21] [Server thread/INFO]: ollop78 lost connection: Server closed
+[06:30:21] [Server thread/INFO]: ollop78 left the game
+[06:30:21] [Server thread/INFO]: Saving worlds
+[06:30:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Saved 52 block chunks, 363 entity chunks, 0 poi chunks in world 'world' in 0.13s
+[06:30:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 28 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[06:30:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:30:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[06:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
