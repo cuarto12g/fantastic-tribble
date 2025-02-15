@@ -47,3 +47,8 @@
 [03:31:37] [Server thread/INFO]: williwanwan joined the game
 [03:31:37] [Server thread/INFO]: williwanwan[/127.193.142.163:58199] logged in with entity id 1386 at ([world]2226.265583611737, 64.0, -366.7541041031501)
 [03:43:07] [Server thread/INFO]: williwanwan has made the advancement [Enchanter]
+[03:53:43] [Server thread/INFO]: williwanwan was slain by Enderman
+[03:55:13] [Server thread/INFO]: Villager Villager['Villager'/5021, uuid='4326be40-d6f5-45be-bcc1-3f3211426719', l='ServerLevel[world_nether]', x=282.52, y=61.00, z=-51.93, cpos=[17, -4], tl=101123, v=true] died, message: 'Villager was slain by Zombie'
+[04:11:27] [Server thread/INFO]: ollop78 was slain by Iron Golem
+[04:11:56] [Async Chat Thread - #0/INFO]: [Not Secure] <williwanwan> 2239 -366
+[04:21:15] [Async Chat Thread - #1/INFO]: [Not Secure] <ollop78> 2239 -366
