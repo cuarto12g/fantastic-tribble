@@ -55,3 +55,15 @@
 [02:47:40] [Server thread/INFO]: Villager Villager['Fletcher'/14, uuid='02df04ae-aadc-4751-a393-9bf57d4e70b5', l='ServerLevel[world]', x=2226.41, y=61.00, z=-383.43, cpos=[139, -24], tl=1078072, v=true] died, message: 'Fletcher went up in flames'
 [02:47:42] [Server thread/INFO]: Villager Villager['Fletcher'/49, uuid='ece94595-f71d-4c86-8fa2-08bb520b1ccf', l='ServerLevel[world]', x=2226.67, y=61.00, z=-385.53, cpos=[139, -25], tl=1078911, v=true] died, message: 'Fletcher went up in flames'
 [02:56:07] [Server thread/INFO]: Villager Villager['Villager'/6112, uuid='b436a9da-8e29-43f9-8df4-ce5f594806b9', l='ServerLevel[world]', x=2225.15, y=62.00, z=-383.55, cpos=[139, -24], tl=20978, v=true] died, message: 'Villager was slain by ollop78'
+[03:15:53] [Server thread/INFO]: ollop78 lost connection: Disconnected
+[03:15:53] [Server thread/INFO]: ollop78 left the game
+[03:16:06] [User Authenticator #1/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
+[03:16:09] [Server thread/INFO]: ollop78 joined the game
+[03:16:09] [Server thread/INFO]: ollop78[/127.174.213.253:52991] logged in with entity id 14579 at ([world_nether]277.5544355783529, 27.0, -130.58737250068322)
+[03:16:23] [Server thread/INFO]: ollop78 lost connection: Disconnected
+[03:16:23] [Server thread/INFO]: ollop78 left the game
+[03:16:27] [User Authenticator #1/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
+[03:16:29] [Server thread/INFO]: ollop78 joined the game
+[03:16:29] [Server thread/INFO]: ollop78[/127.174.213.253:51949] logged in with entity id 14712 at ([world_nether]274.30891429006414, 32.0, -131.30000001192093)
+[03:19:38] [Server thread/INFO]: williwanwan lost connection: Disconnected
+[03:19:38] [Server thread/INFO]: williwanwan left the game
