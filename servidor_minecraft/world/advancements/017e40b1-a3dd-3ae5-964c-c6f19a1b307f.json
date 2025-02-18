@@ -2721,5 +2721,11 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-18 00:22:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
