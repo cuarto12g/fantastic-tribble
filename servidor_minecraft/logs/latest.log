@@ -98,3 +98,9 @@
 [02:11:00] [User Authenticator #5/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
 [02:11:02] [Server thread/INFO]: williwanwan joined the game
 [02:11:02] [Server thread/INFO]: williwanwan[/127.193.142.163:51633] logged in with entity id 24193 at ([world]2251.6127857215542, 91.5, -344.11757934368353)
+[02:18:37] [Server thread/INFO]: Villager Villager['Librarian'/23506, uuid='34bf7bdf-2b8e-4d1a-bc66-08316d19b81e', l='ServerLevel[world]', x=2240.51, y=61.00, z=-376.64, cpos=[140, -24], tl=101472, v=true] died, message: 'Librarian tried to swim in lava'
+[02:19:51] [Server thread/INFO]: Nothing changed. The player isn't banned
+[02:24:04] [Server thread/INFO]: williwanwan has made the advancement [Oh Shiny]
+[02:26:15] [Server thread/INFO]: williwanwan has made the advancement [A Terrible Fortress]
+[02:26:54] [Server thread/INFO]: williwanwan has made the advancement [Into Fire]
+[02:27:16] [Server thread/INFO]: williwanwan has made the advancement [Spooky Scary Skeleton]
