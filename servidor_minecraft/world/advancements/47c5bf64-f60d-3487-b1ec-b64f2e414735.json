@@ -277,6 +277,7 @@
       "minecraft:ghast": "2025-02-12 04:00:14 +0000",
       "minecraft:ender_dragon": "2025-02-18 03:45:31 +0000",
       "minecraft:hoglin": "2025-02-12 03:55:02 +0000",
+      "minecraft:shulker": "2025-02-18 04:15:49 +0000",
       "minecraft:piglin": "2025-02-12 03:32:49 +0000",
       "minecraft:enderman": "2025-02-16 03:39:01 +0000",
       "minecraft:silverfish": "2025-02-18 03:32:09 +0000",
@@ -2853,6 +2854,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-18 03:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-18 04:15:46 +0000"
     },
     "done": true
   },
