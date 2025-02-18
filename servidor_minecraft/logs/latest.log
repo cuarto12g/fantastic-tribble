@@ -114,3 +114,13 @@
 [02:54:32] [Server thread/INFO]: Villager Villager['Villager'/27980, uuid='62261df3-2a43-4536-b114-49380a5908ea', l='ServerLevel[world]', x=2228.70, y=61.05, z=-389.30, cpos=[139, -25], tl=58269, v=true] died, message: 'Villager drowned'
 [02:54:43] [Server thread/INFO]: Villager Villager['Villager'/28262, uuid='2c2d7925-d78b-407e-998e-d3251bd02dfb', l='ServerLevel[world]', x=2228.70, y=61.00, z=-389.31, cpos=[139, -25], tl=27458, v=true] died, message: 'Villager was slain by ollop78'
 [02:55:10] [Server thread/INFO]: Villager Villager['Villager'/31291, uuid='0db71052-0ea6-4632-9d66-975c66f65812', l='ServerLevel[world]', x=2228.15, y=62.61, z=-389.15, cpos=[139, -25], tl=9184, v=true] died, message: 'Villager was slain by ollop78'
+[03:06:13] [Server thread/INFO]: Made williwanwan a server operator
+[03:06:21] [Server thread/INFO]: williwanwan issued server command: /deop ollop78
+[03:06:21] [Server thread/INFO]: [williwanwan: Made ollop78 no longer a server operator]
+[03:06:51] [Server thread/INFO]: williwanwan issued server command: /scoreboard objectives add vida
+[03:06:58] [Server thread/INFO]: williwanwan issued server command: /scoreboard objectives add vida health
+[03:06:58] [Server thread/INFO]: [williwanwan: Created new objective [vida]]
+[03:07:31] [Server thread/INFO]: williwanwan issued server command: /scoreboard objectives setdisplay list vida
+[03:07:31] [Server thread/INFO]: [williwanwan: Set display slot list to show objective vida]
+[03:07:50] [Server thread/INFO]: williwanwan issued server command: /deop williwanwan
+[03:07:50] [Server thread/INFO]: [williwanwan: Made williwanwan no longer a server operator]
