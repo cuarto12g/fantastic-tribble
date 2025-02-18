@@ -107,3 +107,10 @@
 [02:45:34] [User Authenticator #6/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
 [02:45:37] [Server thread/INFO]: ollop78 joined the game
 [02:45:37] [Server thread/INFO]: ollop78[/127.174.213.253:57655] logged in with entity id 30893 at ([world]2267.7329738825533, 64.0, -335.3192928042582)
+[02:53:31] [Server thread/INFO]: Villager Villager['Armorer'/27984, uuid='d9cda213-e6e3-4d08-8cdf-1f4c7405f31c', l='ServerLevel[world]', x=2224.70, y=61.05, z=-388.80, cpos=[139, -25], tl=75994, v=true] died, message: 'Armorer was slain by ollop78'
+[02:54:22] [Server thread/INFO]: Villager Villager['Villager'/27982, uuid='ec3c5f0c-abf7-4159-b7a0-63d0f4945cff', l='ServerLevel[world]', x=2226.09, y=61.04, z=-389.70, cpos=[139, -25], tl=112830, v=true] died, message: 'Villager was slain by ollop78'
+[02:54:24] [Server thread/INFO]: Villager Villager['Villager'/27987, uuid='eb51f343-8b67-4b93-9891-84637c4512ab', l='ServerLevel[world]', x=2227.52, y=61.05, z=-389.70, cpos=[139, -25], tl=64399, v=true] died, message: 'Villager was slain by ollop78'
+[02:54:26] [Server thread/INFO]: Villager Villager['Villager'/27985, uuid='0c613ee0-e094-487d-b4fa-726daf7a1315', l='ServerLevel[world]', x=2227.59, y=61.05, z=-389.30, cpos=[139, -25], tl=92173, v=true] died, message: 'Villager drowned while trying to escape ollop78'
+[02:54:32] [Server thread/INFO]: Villager Villager['Villager'/27980, uuid='62261df3-2a43-4536-b114-49380a5908ea', l='ServerLevel[world]', x=2228.70, y=61.05, z=-389.30, cpos=[139, -25], tl=58269, v=true] died, message: 'Villager drowned'
+[02:54:43] [Server thread/INFO]: Villager Villager['Villager'/28262, uuid='2c2d7925-d78b-407e-998e-d3251bd02dfb', l='ServerLevel[world]', x=2228.70, y=61.00, z=-389.31, cpos=[139, -25], tl=27458, v=true] died, message: 'Villager was slain by ollop78'
+[02:55:10] [Server thread/INFO]: Villager Villager['Villager'/31291, uuid='0db71052-0ea6-4632-9d66-975c66f65812', l='ServerLevel[world]', x=2228.15, y=62.61, z=-389.15, cpos=[139, -25], tl=9184, v=true] died, message: 'Villager was slain by ollop78'
