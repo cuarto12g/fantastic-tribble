@@ -1,176 +1,33 @@
-[00:06:01] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[00:06:01] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[00:06:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:06:02] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[00:06:02] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - sleep-most (5.5.1)
-[00:06:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:06:08] [ServerMain/INFO]: Loaded 1290 recipes
-[00:06:09] [ServerMain/INFO]: Loaded 1399 advancements
-[00:06:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:06:09] [Server thread/INFO]: Loading properties
-[00:06:09] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[00:06:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:06:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:06:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:06:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[00:06:11] [Server thread/INFO]: Default game type: SURVIVAL
-[00:06:11] [Server thread/INFO]: Generating keypair
-[00:06:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:06:11] [Server thread/INFO]: Using epoll channel type
-[00:06:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:06:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:06:11] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
-[00:06:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:06:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:06:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:06:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:06:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:06:11] [Server thread/INFO]: Preparing level "world"
-[00:06:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:06:13] [Server thread/INFO]: Time elapsed: 1423 ms
-[00:06:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:06:13] [Server thread/INFO]: Time elapsed: 362 ms
-[00:06:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:06:13] [Server thread/INFO]: Time elapsed: 103 ms
-[00:06:13] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
-[00:06:14] [Server thread/INFO]: [spark] Starting background profiler...
-[00:06:14] [Server thread/INFO]: Done preparing level "world" (3.219s)
-[00:06:14] [Server thread/INFO]: Running delayed init tasks
-[00:06:14] [Server thread/INFO]: Done (13.793s)! For help, type "help"
-[00:06:14] [Server thread/INFO]: Timings Reset
-[00:06:14] [Craft Scheduler Thread - 3 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
-[00:07:57] [User Authenticator #0/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
-[00:08:01] [Server thread/INFO]: ollop78 joined the game
-[00:08:01] [Server thread/INFO]: ollop78[/127.174.213.253:47643] logged in with entity id 9 at ([world]2251.782389797285, 64.0, -308.31215550192525)
-[00:10:55] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[00:10:55] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[00:13:59] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[00:13:59] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[00:18:02] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[00:18:02] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[00:18:32] [Server thread/INFO]: ollop78 issued server command: /gamemode spectator
-[00:18:32] [Server thread/INFO]: [ollop78: Set own game mode to Spectator Mode]
-[00:18:50] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[00:18:50] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[00:18:52] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[00:18:52] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[00:18:53] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[00:18:53] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[00:22:25] [Server thread/INFO]: ollop78 has made the advancement [A Terrible Fortress]
-[00:26:26] [Server thread/INFO]: ollop78 has made the advancement [Into Fire]
-[01:03:40] [User Authenticator #1/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
-[01:03:41] [Server thread/INFO]: williwanwan joined the game
-[01:03:41] [Server thread/INFO]: williwanwan[/127.193.142.163:33167] logged in with entity id 8569 at ([world]2256.872352414802, 64.0, -331.5865846168967)
-[01:26:07] [Server thread/INFO]: ollop78 lost connection: Disconnected
-[01:26:07] [Server thread/INFO]: ollop78 left the game
-[01:26:13] [User Authenticator #2/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
-[01:26:18] [Server thread/INFO]: ollop78 joined the game
-[01:26:18] [Server thread/INFO]: ollop78[/127.174.213.253:52835] logged in with entity id 15010 at ([world]2267.7329738825533, 64.0, -335.3192928042582)
-[01:26:56] [Server thread/INFO]: ollop78 lost connection: Timed out
-[01:26:56] [Server thread/INFO]: ollop78 left the game
-[01:34:16] [Server thread/INFO]: williwanwan lost connection: Disconnected
-[01:34:16] [Server thread/INFO]: williwanwan left the game
-[01:37:08] [User Authenticator #3/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
-[01:37:09] [Server thread/INFO]: williwanwan joined the game
-[01:37:09] [Server thread/INFO]: williwanwan[/127.193.142.163:58445] logged in with entity id 16388 at ([world]2231.5, 63.0, -363.5)
-[01:51:39] [User Authenticator #4/INFO]: UUID of player TechCat_Dev is 41c192e2-b57d-3afb-aac6-7c6c2e8b1aa1
-[01:51:41] [Server thread/INFO]: TechCat_Dev joined the game
-[01:51:41] [Server thread/INFO]: TechCat_Dev[/127.116.53.150:55237] logged in with entity id 19219 at ([world]120.5, 72.0, 10.5)
-[01:51:47] [Async Chat Thread - #0/INFO]: [Not Secure] <TechCat_Dev> yo
-[01:52:05] [Async Chat Thread - #0/INFO]: [Not Secure] <TechCat_Dev> wya
-[01:52:29] [Server thread/INFO]: TechCat_Dev issued server command: /plugins
-[01:53:10] [Server thread/INFO]: TechCat_Dev fell from a high place
-[01:53:23] [Async Chat Thread - #2/INFO]: [Not Secure] <williwanwan> quien chota eres
-[01:53:56] [Async Chat Thread - #2/INFO]: [Not Secure] <TechCat_Dev> dont speak to me like that
-[01:54:10] [Async Chat Thread - #2/INFO]: [Not Secure] <TechCat_Dev> use kind words
-[01:54:21] [Server thread/INFO]: Made williwanwan a server operator
-[01:54:33] [Server thread/INFO]: williwanwan issued server command: /ban TechCat_Dev
-[01:54:33] [Server thread/INFO]: [williwanwan: Banned TechCat_Dev: Banned by an operator.]
-[01:54:33] [Server thread/INFO]: TechCat_Dev lost connection: You are banned from this server
-[01:54:33] [Server thread/INFO]: TechCat_Dev left the game
-[01:54:45] [Server thread/INFO]: williwanwan issued server command: /deop williwanwan
-[01:54:45] [Server thread/INFO]: [williwanwan: Made williwanwan no longer a server operator]
-[02:02:37] [Server thread/INFO]: Unbanned TechCat_Dev
-[02:03:10] [Server thread/INFO]: Invalid IP address
-[02:10:57] [Server thread/INFO]: williwanwan lost connection: Disconnected
-[02:10:57] [Server thread/INFO]: williwanwan left the game
-[02:11:00] [User Authenticator #5/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
-[02:11:02] [Server thread/INFO]: williwanwan joined the game
-[02:11:02] [Server thread/INFO]: williwanwan[/127.193.142.163:51633] logged in with entity id 24193 at ([world]2251.6127857215542, 91.5, -344.11757934368353)
-[02:18:37] [Server thread/INFO]: Villager Villager['Librarian'/23506, uuid='34bf7bdf-2b8e-4d1a-bc66-08316d19b81e', l='ServerLevel[world]', x=2240.51, y=61.00, z=-376.64, cpos=[140, -24], tl=101472, v=true] died, message: 'Librarian tried to swim in lava'
-[02:19:51] [Server thread/INFO]: Nothing changed. The player isn't banned
-[02:24:04] [Server thread/INFO]: williwanwan has made the advancement [Oh Shiny]
-[02:26:15] [Server thread/INFO]: williwanwan has made the advancement [A Terrible Fortress]
-[02:26:54] [Server thread/INFO]: williwanwan has made the advancement [Into Fire]
-[02:27:16] [Server thread/INFO]: williwanwan has made the advancement [Spooky Scary Skeleton]
-[02:45:34] [User Authenticator #6/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
-[02:45:37] [Server thread/INFO]: ollop78 joined the game
-[02:45:37] [Server thread/INFO]: ollop78[/127.174.213.253:57655] logged in with entity id 30893 at ([world]2267.7329738825533, 64.0, -335.3192928042582)
-[02:53:31] [Server thread/INFO]: Villager Villager['Armorer'/27984, uuid='d9cda213-e6e3-4d08-8cdf-1f4c7405f31c', l='ServerLevel[world]', x=2224.70, y=61.05, z=-388.80, cpos=[139, -25], tl=75994, v=true] died, message: 'Armorer was slain by ollop78'
-[02:54:22] [Server thread/INFO]: Villager Villager['Villager'/27982, uuid='ec3c5f0c-abf7-4159-b7a0-63d0f4945cff', l='ServerLevel[world]', x=2226.09, y=61.04, z=-389.70, cpos=[139, -25], tl=112830, v=true] died, message: 'Villager was slain by ollop78'
-[02:54:24] [Server thread/INFO]: Villager Villager['Villager'/27987, uuid='eb51f343-8b67-4b93-9891-84637c4512ab', l='ServerLevel[world]', x=2227.52, y=61.05, z=-389.70, cpos=[139, -25], tl=64399, v=true] died, message: 'Villager was slain by ollop78'
-[02:54:26] [Server thread/INFO]: Villager Villager['Villager'/27985, uuid='0c613ee0-e094-487d-b4fa-726daf7a1315', l='ServerLevel[world]', x=2227.59, y=61.05, z=-389.30, cpos=[139, -25], tl=92173, v=true] died, message: 'Villager drowned while trying to escape ollop78'
-[02:54:32] [Server thread/INFO]: Villager Villager['Villager'/27980, uuid='62261df3-2a43-4536-b114-49380a5908ea', l='ServerLevel[world]', x=2228.70, y=61.05, z=-389.30, cpos=[139, -25], tl=58269, v=true] died, message: 'Villager drowned'
-[02:54:43] [Server thread/INFO]: Villager Villager['Villager'/28262, uuid='2c2d7925-d78b-407e-998e-d3251bd02dfb', l='ServerLevel[world]', x=2228.70, y=61.00, z=-389.31, cpos=[139, -25], tl=27458, v=true] died, message: 'Villager was slain by ollop78'
-[02:55:10] [Server thread/INFO]: Villager Villager['Villager'/31291, uuid='0db71052-0ea6-4632-9d66-975c66f65812', l='ServerLevel[world]', x=2228.15, y=62.61, z=-389.15, cpos=[139, -25], tl=9184, v=true] died, message: 'Villager was slain by ollop78'
-[03:06:13] [Server thread/INFO]: Made williwanwan a server operator
-[03:06:21] [Server thread/INFO]: williwanwan issued server command: /deop ollop78
-[03:06:21] [Server thread/INFO]: [williwanwan: Made ollop78 no longer a server operator]
-[03:06:51] [Server thread/INFO]: williwanwan issued server command: /scoreboard objectives add vida
-[03:06:58] [Server thread/INFO]: williwanwan issued server command: /scoreboard objectives add vida health
-[03:06:58] [Server thread/INFO]: [williwanwan: Created new objective [vida]]
-[03:07:31] [Server thread/INFO]: williwanwan issued server command: /scoreboard objectives setdisplay list vida
-[03:07:31] [Server thread/INFO]: [williwanwan: Set display slot list to show objective vida]
-[03:07:50] [Server thread/INFO]: williwanwan issued server command: /deop williwanwan
-[03:07:50] [Server thread/INFO]: [williwanwan: Made williwanwan no longer a server operator]
-[03:27:54] [Server thread/INFO]: williwanwan has made the advancement [Eye Spy]
-[03:27:56] [Server thread/INFO]: ollop78 has made the advancement [Eye Spy]
-[03:38:03] [Server thread/INFO]: williwanwan has made the advancement [The End?]
-[03:38:05] [Server thread/INFO]: ollop78 has made the advancement [The End?]
-[03:38:05] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[03:38:05] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[03:43:18] [Server thread/WARN]: ollop78 moved wrongly!
-[03:43:22] [Server thread/WARN]: ollop78 moved wrongly!
-[03:45:31] [Server thread/INFO]: williwanwan has made the advancement [Free the End]
-[03:46:03] [Server thread/INFO]: williwanwan has reached the goal [The Next Generation]
-[03:46:21] [Server thread/INFO]: ollop78 has reached the goal [The Next Generation]
-[03:46:38] [Server thread/WARN]: ollop78 moved wrongly!
-[03:47:50] [Server thread/INFO]: williwanwan has made the advancement [Remote Getaway]
-[03:48:18] [Server thread/INFO]: ollop78 has made the advancement [Remote Getaway]
-[03:51:25] [Server thread/INFO]: ollop78 has made the advancement [The City at the End of the Game]
-[04:15:46] [Server thread/INFO]: williwanwan has made the advancement [The City at the End of the Game]
-[04:18:49] [Server thread/INFO]: williwanwan has made the advancement [Local Brewery]
-[04:19:14] [Server thread/INFO]: williwanwan has reached the goal [Sky's the Limit]
-[04:33:58] [Server thread/WARN]: ollop78 moved too quickly! -5.462299263666409,-43.0,-4.267878314734844
-[04:37:42] [Server thread/WARN]: ollop78 moved too quickly! -4.17099745564164,-40.0,3.7343465756234764
-[04:42:17] [Server thread/INFO]: williwanwan lost connection: Disconnected
-[04:42:17] [Server thread/INFO]: williwanwan left the game
-[04:43:44] [Server thread/INFO]: ollop78 has made the advancement [Local Brewery]
-[04:43:59] [Server thread/INFO]: ollop78 has reached the goal [Sky's the Limit]
-[04:44:11] [Server thread/INFO]: ollop78 lost connection: Disconnected
-[04:44:11] [Server thread/INFO]: ollop78 left the game
-[04:44:25] [Server thread/INFO]: Stopping the server
-[04:44:25] [Server thread/INFO]: Stopping server
-[04:44:25] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
-[04:44:25] [Server thread/INFO]: Saving players
-[04:44:25] [Server thread/INFO]: Saving worlds
-[04:44:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 80 entity chunks, 0 poi chunks in world 'world' in 0.02s
-[04:44:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Saved 12 block chunks, 95 entity chunks, 0 poi chunks in world 'world_nether' in 0.04s
-[04:44:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:44:25] [Server thread/INFO]: [ChunkHolderManager] Saved 152 block chunks, 1 entity chunks, 0 poi chunks in world 'world_the_end' in 0.14s
-[04:44:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:44:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:44:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:44:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:22:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:22:02] [ServerMain/WARN]: Missing data pack paper
+[01:22:03] [ServerMain/INFO]: Loaded 1407 recipes
+[01:22:03] [ServerMain/INFO]: Loaded 1520 advancements
+[01:22:03] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:22:03] [Server thread/INFO]: Loading properties
+[01:22:03] [Server thread/INFO]: Default game type: SURVIVAL
+[01:22:03] [Server thread/INFO]: Generating keypair
+[01:22:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:22:03] [Server thread/INFO]: Using epoll channel type
+[01:22:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:22:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:22:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:22:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:22:04] [Server thread/INFO]: Preparing level "world"
+[01:22:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:22:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:22:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:22:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:22:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:22:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:22:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:22:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:22:08] [Server thread/INFO]: Time elapsed: 3399 ms
+[01:22:08] [Server thread/INFO]: Done (4.068s)! For help, type "help"
+[01:22:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:22:08] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/fantastic-tribble/msx.py<--[HERE]
+[01:22:38] [Server thread/INFO]: Nacho_1704[/127.200.115.173:38501] logged in with entity id 5 at (133.5, 74.0, 8.5)
+[01:22:38] [Server thread/INFO]: Nacho_1704 joined the game
+[01:28:00] [Server thread/INFO]: Nacho_1704 was slain by Zombie
+[01:29:44] [Server thread/INFO]: Nacho_1704 has made the advancement [Stone Age]
+[01:30:18] [Server thread/INFO]: Nacho_1704 has made the advancement [Getting an Upgrade]
+[01:31:23] [Server thread/INFO]: Nacho_1704 was shot by Skeleton
